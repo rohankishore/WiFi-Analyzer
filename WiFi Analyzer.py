@@ -37,7 +37,7 @@ class SnifferApp:
         sniffer = tk.Frame(notebook, background="#1d1d1d")
         devices = tk.Frame(notebook, background="#1d1d1d")
         notebook.add(sniffer, text="Network Sniffer")
-        notebook.add(devices, text="Connected Devices")
+        notebook.add(devices, text="Saved Passwords")
 
         # buttons to start, stop and write the data of the traffic analyzing proccess to a text file. Also contains the text box
         self.start_button = CTkButton(sniffer, text="Start", command=self.start_sniffer)
