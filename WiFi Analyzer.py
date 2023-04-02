@@ -4,6 +4,10 @@ from customtkinter import *
 from scapy.all import *
 from tkinter import scrolledtext
 
+"""
+THIS PROJECT REQUIRES WINPCAP OR NCAP DRIVERS INSTALLED AND RUNNING
+"""
+
 __project_submitted_by__ = "Rohan Kishore"
 __project_title__ = "WiFi Analyzer"
 
@@ -100,7 +104,8 @@ class SnifferApp:
             "in non-encrypted form."
             + "\n"
             + "\n"
-            + "The second section is 'Saved Passwords'. It will show you the passwords of every saved network in your computer.",
+            + "The second section is 'Saved Passwords'. It will show you the passwords of every saved network in your computer." +
+            "\n" + "\n" + "THIS REQUIRES WinPcap or Ncap DRIVERS INSTALLED AND RUNNING",
         )
 
     def stop_sniffer(self):
