@@ -5,12 +5,12 @@ This is a tool that can help you analyze WiFi networks. It can keep track of the
 https://www.winpcap.org/install/default.htm
 
 # How to Use?
-![image](https://user-images.githubusercontent.com/109947257/229361759-9c1fdc46-5806-43b7-81d8-6ac207924de4.png)
+![image](https://user-images.githubusercontent.com/109947257/229362368-13bede80-6e84-488d-b87d-e045bac5a858.png)
 
 ### The app has two tabs. One for network sniffing (analyzing the WiFi traffic) and the other to show the list of saved passwords.
 
 ### You can start the monitoring process by just clicking the `Start` button. You can click the `Stop` button to stop the proccess too.
-![image](https://user-images.githubusercontent.com/109947257/229361796-01fc20b3-440c-4e74-971f-a70c4735ab99.png)
+![image](https://user-images.githubusercontent.com/109947257/229362384-b3040001-a8be-4435-a528-b5290c514fa9.png)
 
 ### If you want to save the data to a text file, you can click the `Save As a TXT File` button. Make sure you've stopped the procees. Else, it doesn't save the file. You can later open the text file and find the analysis.
 ![image](https://user-images.githubusercontent.com/109947257/229361916-0d321f2d-88de-4320-be89-ae8a8ddc6f39.png)
