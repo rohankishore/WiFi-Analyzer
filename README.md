@@ -1,6 +1,9 @@
 # WiFi-Analyzer
 This is a tool that can help you analyze WiFi networks. It can keep track of the network traffic and provide you with detailed information about the devices that are communicating with each other, including their source and destination addresses and the protocols or ports they are using. Additionally, this tool can display a list of saved WiFi passwords on your computer. You can tell something's wrong if there's unusually heavy traffic or if you see passwords in non-encrypted way. You can also save this info to a text file if you need.
 
+# THIS REQUIRES `WinPcap` or `Ncap` DRIVERS TO WORK
+https://www.winpcap.org/install/default.htm
+
 # How to Use?
 ![image](https://user-images.githubusercontent.com/109947257/229361759-9c1fdc46-5806-43b7-81d8-6ac207924de4.png)
 
